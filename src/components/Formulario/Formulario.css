@@ -1,0 +1,18 @@
+.formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+  padding: 05px 12px 15px;
+  border-radius: 25px;
+  box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+  background-color: rgb(219, 219, 219);
+  margin: 10px;
+}
+.estado {
+  display: flex;
+  gap: 80px;
+  flex-grow: 1;
+  background-color: rgb(219, 219, 219);
+  border-radius: 30px;
+}

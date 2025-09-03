@@ -1,0 +1,21 @@
+.card-produto {
+  width: 200px;
+  margin: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.cabecalho {
+  text-align: center;
+}
+.cabecalho img {
+  max-width: 80px;
+  margin: 10px auto;
+  border-radius: 60%;
+  position: relative;
+}
+.rodape {
+  background: #fff;
+  padding: 10px;
+  text-align: center;
+}

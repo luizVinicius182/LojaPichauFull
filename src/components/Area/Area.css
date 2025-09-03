@@ -1,0 +1,14 @@
+.area {
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: auto;
+  font-size: large;
+}
+
+.area h3 {
+  font-size: 32px;
+  border-bottom: 4px solid;
+  display: inline-block;
+  padding-bottom: 8px;
+}

@@ -1,0 +1,23 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.area {
+  text-align: center;
+  padding: 32px;
+}
+
+.area h3 {
+  font-size: 24px;
+  border-bottom: 4px solid;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
+.produtos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
